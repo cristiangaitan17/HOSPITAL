@@ -1,0 +1,51 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Base de datos
+*.sqlite3
+db.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.so
+.Python
+
+# Django
+*.log
+*.pot
+*.pyc
+.DS_Store
+coverage/
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de sistema
+Thumbs.db
+Desktop.ini
+
+# Archivos de migración (opcional, algunos los suben)
+# */migrations/
+# !*/migrations/__init__.py
+
+# Archivos estáticos y media
+staticfiles/
+static/
+media/
