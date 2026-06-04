@@ -1,0 +1,9 @@
+Django
+djangorestframework
+drf-yasg
+psycopg2-binary
+python-dotenv
+djangorestframework-simplejwt
+django-filter
+openpyxl
+django-cors-headers
