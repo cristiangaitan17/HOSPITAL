@@ -12,7 +12,7 @@
 | Campo | Descripción |
 |-------|-------------|
 | **Nombre del proyecto** | Hospital API - Sistema de Gestión Hospitalaria |
-| **Autor** | Steven Cristian Gaitán Hernández |
+| **Autor** | Cristian Steven Gaitán Hernández |
 | **Tecnólogo** | Análisis y Desarrollo de Software - ADSO |
 | **Institución** | Servicio Nacional de Aprendizaje - SENA |
 | **Instructor** | Fabian David Barreto Sanchez |
